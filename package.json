@@ -2,6 +2,10 @@
   "name": "@gamedevjared89/progressbar-react",
   "version": "1.0.5",
   "description": "A progress bar that fills as the user scrolls. For React apps. Customizable height and fill color.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JRH89/progress-bar"
+  },
   "main": "dist/bundle.js",
   "scripts": {
     "build": "rollup -c",
