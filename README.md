@@ -9,4 +9,4 @@
 react, react-dom
 
 <h2>Usage:</h2>
-<img src="/src/images/image.png" alt="imports and usage">
+<img width="50%" height="50%" src="/src/images/image.png" alt="imports and usage">
