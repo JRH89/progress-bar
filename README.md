@@ -5,5 +5,8 @@
 <h2>Installation:</h2>
 <img src="/src/images/image2.png" alt="npm i @gamedevjared89/progressbar-react">
 
+<h2>Peer Deps:</h2>
+react, react-dom
+
 <h2>Usage:</h2>
 <img src="/src/images/image.png" alt="imports and usage">
