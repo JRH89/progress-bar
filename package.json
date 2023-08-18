@@ -36,13 +36,11 @@
     "rollup-plugin-postcss": "^4.0.2",
     "style-loader": "^3.3.3",
     "webpack": "^5.88.2",
-    "webpack-cli": "^5.1.4"
+    "webpack-cli": "^5.1.4",
+    "autoprefixer": "^10.4.15"
   },
   "files": [
     "dist",
     "src/styles.css"
-  ],
-  "dependencies": {
-    "autoprefixer": "^10.4.15"
-  }
+  ]
 }
