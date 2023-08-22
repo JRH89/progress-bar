@@ -1,6 +1,6 @@
 {
   "name": "@gamedevjared89/progressbar-react",
-  "version": "1.0.7",
+  "version": "1.1.8",
   "description": "A progress bar that fills as the user scrolls. For React apps. Customizable height and fill color.",
   "repository": {
     "type": "git",
@@ -15,7 +15,12 @@
     "react",
     "progress-bar",
     "progress bar",
-    "ui"
+    "ui",
+    "components",
+    "scroll bar",
+    "scroll",
+    "scroll progress bar",
+    "scroll progressbar"
   ],
   "author": "Hooker Hill Studios",
   "license": "MIT",
