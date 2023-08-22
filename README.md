@@ -12,3 +12,6 @@ react, react-dom
 
 <h2>Usage:</h2>
 <img width="50%" height="50%" src="/images/image.png" alt="imports and usage">
+
+<h3>Sample:</h3>
+<img width="50%" height="50%" src="/images/Screenshot_20230822-004526-476.png" alt="demo">
